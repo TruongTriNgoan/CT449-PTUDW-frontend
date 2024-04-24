@@ -1,5 +1,5 @@
 <template>
-    <div class="page row">
+    <div class="page row mx-auto">
         <div class="col-md-10">
             <InputSearch v-model="searchText" />
         </div>
